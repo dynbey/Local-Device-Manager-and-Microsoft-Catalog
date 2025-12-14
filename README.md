@@ -12,7 +12,8 @@ Example CSV File:
 Line 1: Hersteller,Gerätename,Type,Vendor ID,Device ID,Installierte_Version
 Line x: Intel,Intel(R) Management Engine Interface #1,Type=PCI,Vendor ID=8086,Device ID=7AE8,2540.8.7.0
 
-Chrome: https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2011%20client%2C%20version%2025h2%20Intel%28R%29%20Management%20Engine%20Interface%20%231
+Chrome:
+https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2011%20client%2C%20version%2025h2%20Intel%28R%29%20Management%20Engine%20Interface%20%231
 Equals in search: windows 11 client, version 25h2 Intel(R) Management Engine Interface #1
 
 Feel free to adapt it to your OS, Version and language.
