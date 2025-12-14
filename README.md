@@ -1,5 +1,6 @@
-This Powershell file was tested under Microsoft Windows 11 (10.0.26200.7462 aka 25H2) German edition and Powershell 7.5.4.
-First it looks at the entries of Microsoft Device Manager and collects all devices.
+This Powershell Script file was tested under Microsoft Windows 11 (10.0.26200.7462 aka 25H2) German edition and Powershell 7.5.4.
+
+First the Powershell Script looks at the entries of Microsoft Device Manager and collects all devices.
 Then it opens notepad.exe and lists all drivers incl. Version in a CSV File.
 
 Then it looks in an enhanced way for drivers for for Windows 11, 25H2 at Microsoft Catalog.
